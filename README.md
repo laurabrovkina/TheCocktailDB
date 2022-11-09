@@ -1,15 +1,11 @@
-#### React Router Fix
+## The Cocktail DB project
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+The list of cocktails with pictures and description retrieved from [TheCocktailDB](https://www.thecocktaildb.com/api.php)
 
-#### CRA Fix
+### Deployments
 
-```
+[Deployed app](https://react-cocktail-db-project-react.netlify.app/)
 
-"build": "CI= react-scripts build",
+### React Router Fix
 
-```
-
-```sh
-npm install react-router-dom@6
-```
+[Fix](https://dev.to/dance2diepage-not-found-on-netlify-with-react-router-58mc)
